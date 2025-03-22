@@ -1,5 +1,7 @@
 # vscode快捷键（mac）   打开快捷键：command + k + s：
 打开命令面板:                command + shift + p
+AI聊天：                 command + u
+editor内编码：                 command + I
 
 根据文件名搜索所有文件:        command + p
 搜索文件中的内容并替换所有：    command + shift + h
