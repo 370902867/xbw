@@ -11,8 +11,7 @@ public class Book {
     private Double price;
     private String description;
 
-    git config --global user.email "370902867@qq.com"
-    git config --global user.name "370902867"
+    
 
     public Long getId() {
         return id;
